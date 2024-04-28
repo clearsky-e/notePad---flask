@@ -1,0 +1,1 @@
+It is a robust web application built with Python Flask, Bootstrap, and SQLAlchemy. Seamlessly manage your notes with intuitive CRUD operations—Create, Read, Update, and Delete—empowering users to efficiently add, view, update, and delete notes with ease. Flaunt your notes management prowess here, a sleek solution for organizing your thoughts effortlessly.
